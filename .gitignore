@@ -112,3 +112,6 @@ tools/jenkins_scripts/mac/android/userconf.ini
 
 # CTags
 tags
+
+# cocos2d-x projects
+projects/
